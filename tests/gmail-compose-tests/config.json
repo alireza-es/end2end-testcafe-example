@@ -1,0 +1,12 @@
+{
+    "sender": {
+        "email": "e2etester.sender@gmail.com",
+        "password": "Univ@@12362"
+    },
+    "receiver": {
+        "email": "e2etester.receiver@gmail.com",
+        "password": "Univ@@12385"
+    },
+    "pdfFilePath": "./files/doc.pdf",
+    "jpgFilePath": "./files/pic.jpg"
+}

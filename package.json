@@ -1,0 +1,27 @@
+{
+  "name": "end2end-testcafe-example",
+  "version": "1.0.0",
+  "description": "A sample End-to-End Test with TestCafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests -a \"node server/index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alireza-es/end2end-testcafe-example.git"
+  },
+  "author": "Alireza Esmaeili",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "nanoid": "^2.1.9",
+    "testcafe": "^1.5.0"
+  },
+  "devDependencies": {
+    "mockdate": "^2.0.5"
+  },
+  "bugs": {
+    "url": "https://github.com/alireza-es/end2end-testcafe-example/issues"
+  },
+  "homepage": "https://github.com/alireza-es/end2end-testcafe-example#readme"
+}
