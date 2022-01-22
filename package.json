@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "4.17.15",
-    "nanoid": "^2.1.9",
+    "nanoid": "^3.1.31",
     "testcafe": "^1.5.0"
   },
   "devDependencies": {
